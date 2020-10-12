@@ -1,11 +1,11 @@
 # Beginner level
 
 1. Skriv en kommentar
-
+//hejeb//
 2. Skapa en string
-
+const "lllll"
 3. Skapa en tom array
-
+[" ", " "]
 4. Skapa ett tomt objekt
 
 5. Deklarera en konstant variabel och tilldela den ett värde.
